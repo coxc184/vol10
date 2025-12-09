@@ -1,0 +1,125 @@
+ * {cursor: url(https://cur.cursors-4u.net/cursors/cur-11/cur1039.cur), auto !important;} 
+
+#header{
+
+color: hwb(0 100% 0%);
+font-family: sans-serif;
+
+ text-shadow: 2px 2px 5px hwb(0 100% 0%);
+    
+}
+
+#first{
+
+
+}
+#third{
+
+
+
+
+}
+#volume8:hover{
+
+text-decoration: wavy;
+    letter-spacing: 2px;
+    font-size: x-large;
+    color: lab(90.83% -51.33 -6.76);
+
+
+}
+body {
+    background-image: url(img/0e803ff6dbf0f871b957238c6e3df18b.gif);
+    background-size: cover;
+
+}
+
+#yas{
+
+
+
+ font-family: "Jersey 10", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  color: lch(100% 0.01 296.81);
+  width: 20%;
+   text-shadow: 2px 2px 5px lab(0% 0 0);
+   text-align: center;
+
+margin-left: 40%;
+
+}
+
+
+
+#poke{
+
+margin-left: 40%;
+margin-top: -60%;
+
+
+}
+
+#second{
+
+ font-family: "Jersey 10", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  color: lch(100% 0.01 296.81);
+  width: 20%;
+   text-shadow: 2px 2px 5px lab(0% 0 0);
+
+   margin-left: 10%;
+}
+
+#three{
+
+
+ font-family: "Jersey 10", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  color: lch(100% 0.01 296.81);
+  width: 20%;
+   text-shadow: 2px 2px 5px lab(0% 0 0);
+margin-left: 65%;
+margin-top: -15%;
+
+}
+
+#dog{
+
+ font-family: "Jersey 10", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  color: lch(100% 0.01 296.81);
+  width: 20%;
+   text-shadow: 2px 2px 5px lab(0% 0 0);
+margin-left: 10%;
+
+}
+
+#last{
+
+ font-family: "Jersey 10", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  color: lch(100% 0.01 296.81);
+  width: 20%;
+   text-shadow: 2px 2px 5px lab(0% 0 0);
+
+
+
+
+}
+#butt{
+
+
+margin-left: 47%;
+
+
+}
+#home{
+margin-left: 45.5%;
+
+
+}
